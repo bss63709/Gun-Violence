@@ -1,4 +1,4 @@
-# **Tabluea Gun Violence Statistics Project**
+# **Tableau Gun Violence Statistics Project**
 
 
 
@@ -27,7 +27,7 @@ The Column Names are: Incident ID, Date, State, City, Address, Number Killed, Nu
 
 **Data Types:**
 
-Numerical, Date, String, Geogrpahical, Calculated Numerical
+Numerical, Date, String, Geograpahical, Calculated Numerical
 
 # **Our Questions**
 **Question One:**
@@ -36,7 +36,7 @@ What are the total number of people affected by gun violence _by state_ in 2021?
 
 **Why is this Important?**
 
-This is important because it allows us to see the magnitude of the effect that gun violence has on the different states. It allows us to see just how much of a problem gun violence is in the United States and it can help raise awareness of the issue. Another reason for its importance is for the sake of safety. By seeing our chart it is possible to see what are the safest states and what are the most violent. You can see where it which states are the safest to travel to or the safest to move to.
+This is important because it allows us to see the magnitude of the effect that gun violence has on the different states. It allows us to see just how much of a problem gun violence is in the United States and it can help raise awareness of the issue. Another reason for its importance is for the sake of safety. By seeing our chart it is possible to see what are the safest states and what are the most violent. You can see which states are the safest to travel to or the safest to move to.
 
 **Question Two:**
 
@@ -48,9 +48,9 @@ Knowing the amount of gun violence in individual cities of the United States giv
 
 # **Manipulations**
 
-First we manipulated the dataset to remove the years 2013-2020 and 2022. This left us with just 2021 as it has the most recent data. The purpose of removing these years is 2022 did not have data for the whole year and threw off our anlaysis, and we wnated to see more recent data so people could know where to live based on recent statistics not what happened nearly a decade ago. 
+First we manipulated the dataset to remove the years 2013-2020 and 2022. This left us with just 2021 as it has the most recent data. The purpose of removing these years is that 2022 did not have data for the whole year and threw off our analysis, and we wanted to see more recent data so people could know where to live based on recent statistics, not what happened nearly a decade ago.
 
-We also calculated the total # of people affected by gun violence. Affected as in killed or injured, not as in imapcted such as surviors families. We did this by creating a calculated field that summed the number of people killed and injured by gunviolence. The purpose of this is to see not just how many people are killed, but how many people are shot at as that better encompassses what we believe is gun violence. 
+We also calculated the total # of people affected by gun violence. Affected as in killed or injured, not as in impacted such as survivors families. We did this by creating a calculated field that summed the number of people killed and injured by gun violence. The purpose of this is to see not just how many people are killed, but how many people are shot at as that better encompasses what we believe is gun violence.
 
 # **Analysis & Results**
 
@@ -73,6 +73,6 @@ This graph shows a view of gun violence in the United States, specific to each c
 
 This graph shows that around 21k people were killed by gun violence, around 41k people were injured by gun violence, totaling to around 62k people affected by gun violence via death or injury.
 
-# **Tableua Packaged Workbook**
+# **Tableau Packaged Workbook**
 
 The packaged workbook is added as a file in the repository.
